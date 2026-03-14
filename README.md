@@ -171,19 +171,19 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Web Applications Suite</h3>
-      <img src="https://img.shields.io/badge/React-%230FF0FC?style=flat-square&logo=react&logoColor=000" />
-      <img src="https://img.shields.io/badge/Vue.js-%23B537F2?style=flat-square&logo=vuedotjs&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Node.js-%23FF2D78?style=flat-square" />
+      <h3>🌐 Portfolio Platform — Full-Stack App</h3>
+      <img src="https://img.shields.io/badge/Next.js-%230FF0FC?style=flat-square&logo=nextdotjs&logoColor=000" />
+      <img src="https://img.shields.io/badge/TypeScript-%23B537F2?style=flat-square&logo=typescript&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Prisma-%23FF2D78?style=flat-square&logo=prisma&logoColor=fff" />
       <br><br>
       <ul>
-        <li>Multiple responsive apps with auth, dashboards & CRUD operations</li>
-        <li>RESTful services with PostgreSQL schemas for scalable data management</li>
-        <li>CI/CD automated deployments via Railway & Render</li>
-        <li>Clean architecture focused on performance & maintainability</li>
+        <li>Full-stack platform built with <strong>Next.js 14 + TypeScript</strong> (98% TS codebase)</li>
+        <li><strong>Prisma ORM</strong> for type-safe database access and schema management</li>
+        <li>Component-driven UI with shadcn/ui, Tailwind CSS & modern app router</li>
+        <li>Production-ready architecture: SSR, API routes, and optimized font loading</li>
       </ul>
-      <a href="https://dumpalisharathchandrareddy.github.io/MyPortfolio/">
-        <img src="https://img.shields.io/badge/Live_Site-%23FF2D78?style=for-the-badge&logo=firefoxbrowser&logoColor=fff" />
+      <a href="https://github.com/dumpalisharathchandrareddy/portfolio-platform">
+        <img src="https://img.shields.io/badge/View_Repo-%230FF0FC?style=for-the-badge&logo=github&logoColor=000" />
       </a>
     </td>
   </tr>
@@ -201,7 +201,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=b537f2&border_radius=10&dates=aaaaaa" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0FF0FC&fire=FF2D78&currStreakLabel=B537F2&sideLabels=ffffff&dates=aaaaaa&border_radius=10" width="60%" />
 </div>
 
 <br>
@@ -221,7 +221,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dumpalisharathchandrareddy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%" />
+  <img src="https://img.shields.io/badge/Repos-23+-0ff0fc?style=for-the-badge&logo=github&logoColor=000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Production_Users-500+-b537f2?style=for-the-badge&logo=users&logoColor=fff&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Apps_Shipped-10+-ff2d78?style=for-the-badge&logo=rocket&logoColor=fff&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Research_Published-1-0ff0fc?style=for-the-badge&logo=academia&logoColor=000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Certifications-2-b537f2?style=for-the-badge&logo=award&logoColor=fff&labelColor=0d0d0d" />
 </div>
 
 ---

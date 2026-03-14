@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0%3A0ff0fc,50%3Ab537f2,100%3Aff2d78&section=header&text=Sharath%20Chandra%20Reddy&fontColor=0ff0fc&fontSize=42&animation=twinkling&fontAlignY=65" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=0FF0FC&center=true&vCenter=true&width=700&lines=⚡+Backend+Engineer+%7C+AI%2FML+%26+Distributed+Systems;🤖+500%2B+Users+in+Production+%7C+10%2B+Apps+Shipped;🌐+Node.js+%7C+React+%7C+Flutter+%7C+Spring+Boot;☁️+Cloud+Native+%7C+Docker+%7C+CI%2FCD+Pipelines;🔬+M.S.+Computer+Science+%7C+University+of+New+Haven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0FF0FC&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Backend+Engineer+%7C+AI%2FML+%26+Distributed+Systems;500%2B+Users+in+Production+%7C+10%2B+Apps+Shipped;Node.js+%7C+React+%7C+Flutter+%7C+Spring+Boot;Cloud+Native+%7C+Docker+%7C+CI%2FCD+Pipelines;M.S.+Computer+Science+%7C+University+of+New+Haven" alt="Typing SVG" />
 </div>
 
 <br>
@@ -26,12 +26,14 @@
 ## ░▒▓ ABOUT ME ▓▒░
 
 ```yaml
-name      : Sharath Chandra Reddy Dumpali
-location  : Hartford, CT, USA
-education : M.S. Computer Science — University of New Haven
-            B.S. Computer Science — Sathyabama Institute, India
-focus     : Backend Engineering · AI/ML · Full-Stack · Cloud Systems
-shipped   : 10+ real-world apps · 500+ active users in production
+╔══════════════════════════════════════════════════════════╗
+║  NAME     »  SHARATH CHANDRA REDDY DUMPALI               ║
+║  LOCATION »  Hartford, CT, USA                           ║
+║  DEGREE   »  M.S. Computer Science — Univ. of New Haven  ║
+║           »  B.S. Computer Science — Sathyabama Inst.    ║
+║  FOCUS    »  Backend · AI/ML · Full-Stack · Cloud        ║
+║  SHIPPED  »  10+ Production Apps · 500+ Active Users     ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 > ⚡ *"Architecting resilient systems that scale — from backend APIs to cloud-native pipelines."*
@@ -189,8 +191,8 @@ shipped   : 10+ real-world apps · 500+ active users in production
 ## ░▒▓ GITHUB STATS ▓▒░
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumpalisharathchandrareddy&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=b537f2&text_color=ffffff&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=b537f2&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dumpalisharathchandrareddy&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=b537f2&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=b537f2&border_radius=10&count_private=true" width="49%" />
 </div>
 
 <br>

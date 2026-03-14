@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0%3A0ff0fc,50%3Ab537f2,100%3Aff2d78&section=header&text=Sharath%20Chandra%20Reddy&fontColor=0ff0fc&fontSize=42&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0%3A0ff0fc,50%3Ab537f2,100%3Aff2d78&section=header&text=Sharath%20Chandra%20Reddy&fontColor=0ff0fc&fontSize=46&animation=twinkling&fontAlignY=65" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0FF0FC&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Backend+Engineer+%7C+AI%2FML+%26+Distributed+Systems;500%2B+Users+in+Production+%7C+10%2B+Apps+Shipped;Node.js+%7C+React+%7C+Flutter+%7C+Spring+Boot;Cloud+Native+%7C+Docker+%7C+CI%2FCD+Pipelines;M.S.+Computer+Science+%7C+University+of+New+Haven" alt="Typing SVG" />
@@ -99,11 +99,10 @@
         <li>Production-grade Discord automation platform serving <strong>500+ concurrent users</strong></li>
         <li>Role-based permissions, giveaway engine, ticketing, analytics & notification services</li>
         <li>Reduced manual admin tasks by <strong>90%</strong> via workflow automation</li>
-        <li>24/7 uptime with cloud deployment & auto-restart monitoring</li>
-        <li>53+ commits · Active in production</li>
+        <li>24/7 uptime with cloud deployment & auto-restart monitoring · 53+ commits</li>
       </ul>
       <a href="https://github.com/dumpalisharathchandrareddy/116-bot-discord">
-        <img src="https://img.shields.io/badge/→ View Repo-%230FF0FC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/View_Repo-%230FF0FC?style=for-the-badge&logo=github&logoColor=000" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -116,14 +115,61 @@
         <li>Scalable REST APIs for real-time user activity capture & processing</li>
         <li>Scheduled background jobs for async analytics generation</li>
         <li>Query & indexing optimizations — improved response times by <strong>40%+</strong></li>
-        <li>Delivered operational dashboards and actionable insight reports</li>
+        <li>Operational dashboards with actionable insight reports</li>
       </ul>
       <a href="https://github.com/dumpalisharathchandrareddy/116-info-bot">
-        <img src="https://img.shields.io/badge/→ View Repo-%230FF0FC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/View_Repo-%230FF0FC?style=for-the-badge&logo=github&logoColor=000" />
       </a>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Human Activity Recognition — ML Research</h3>
+      <img src="https://img.shields.io/badge/Python-%230FF0FC?style=flat-square&logo=python&logoColor=000" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-%23B537F2?style=flat-square&logo=scikitlearn&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Flask-%23FF2D78?style=flat-square&logo=flask&logoColor=fff" />
+      <br><br>
+      <ul>
+        <li>Benchmarked <strong>8 ML algorithms</strong> (SVM, Random Forest, GBDT, KNN, Deep Learning + Grid Search) on 10,299 sensor data points</li>
+        <li>Linear SVC Grid Search achieved top precision of <strong>0.9682</strong></li>
+        <li>Full pipeline: data acquisition → EDA → model training → Flask deployment</li>
+        <li>Published as a <strong>research paper</strong> — University of New Haven</li>
+      </ul>
+      <a href="https://github.com/dumpalisharathchandrareddy/Human-Activity-Recognition-main">
+        <img src="https://img.shields.io/badge/View_Repo-%230FF0FC?style=for-the-badge&logo=github&logoColor=000" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 Capital One Eno — Browser Extension</h3>
+      <img src="https://img.shields.io/badge/JavaScript-%230FF0FC?style=flat-square&logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/Chrome_Extension-%23B537F2?style=flat-square&logo=googlechrome&logoColor=fff" />
+      <img src="https://img.shields.io/badge/FinTech-%23FF2D78?style=flat-square" />
+      <br><br>
+      <ul>
+        <li>Browser extension extending Capital One's <strong>Eno AI assistant</strong> with custom functionality</li>
+        <li>Built with Chrome Extension APIs — <code>content.js</code> + <code>manifest.json</code> architecture</li>
+        <li>Injects smart UI enhancements into the Capital One web banking experience</li>
+        <li>Demonstrates browser-level JS engineering & FinTech integration skills</li>
+      </ul>
+      <a href="https://github.com/dumpalisharathchandrareddy/116-Cap-One-Eno-Extension-main">
+        <img src="https://img.shields.io/badge/View_Repo-%230FF0FC?style=for-the-badge&logo=github&logoColor=000" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 E-Commerce Mobile App — Flutter</h3>
+      <img src="https://img.shields.io/badge/Flutter-%230FF0FC?style=flat-square&logo=flutter&logoColor=000" />
+      <img src="https://img.shields.io/badge/Dart-%23B537F2?style=flat-square&logo=dart&logoColor=fff" />
+      <img src="https://img.shields.io/badge/REST_APIs-%23FF2D78?style=flat-square" />
+      <br><br>
+      <ul>
+        <li>Cross-platform mobile app — product catalog, cart & secure checkout</li>
+        <li>Real-time data sync via REST API integration</li>
+        <li>Responsive mobile-first UI/UX across Android & iOS</li>
+        <li>🏆 <strong>Flipkart Grid Certified</strong> — Flutter App Development</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3>🌐 Full-Stack Web Applications Suite</h3>
       <img src="https://img.shields.io/badge/React-%230FF0FC?style=flat-square&logo=react&logoColor=000" />
@@ -131,56 +177,13 @@
       <img src="https://img.shields.io/badge/Node.js-%23FF2D78?style=flat-square" />
       <br><br>
       <ul>
-        <li>Multiple responsive full-stack apps with auth, dashboards, and CRUD</li>
+        <li>Multiple responsive apps with auth, dashboards & CRUD operations</li>
         <li>RESTful services with PostgreSQL schemas for scalable data management</li>
-        <li>CI/CD automated cloud deployments via Railway & Render</li>
+        <li>CI/CD automated deployments via Railway & Render</li>
         <li>Clean architecture focused on performance & maintainability</li>
       </ul>
-      <a href="https://github.com/dumpalisharathchandrareddy/MyPortfolio">
-        <img src="https://img.shields.io/badge/→ View Portfolio-%230FF0FC?style=for-the-badge" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Human Activity Recognition (ML)</h3>
-      <img src="https://img.shields.io/badge/Python-%230FF0FC?style=flat-square&logo=python&logoColor=000" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-%23B537F2?style=flat-square&logo=scikitlearn&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Data_Analysis-%23FF2D78?style=flat-square" />
-      <br><br>
-      <ul>
-        <li>ML classification model using smartphone sensor datasets</li>
-        <li>Feature engineering, preprocessing pipelines & model evaluation</li>
-        <li>Boosted prediction accuracy via hyperparameter tuning</li>
-        <li>Hands-on ML fundamentals: training, validation, testing lifecycle</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 E-Commerce Mobile App (Flutter)</h3>
-      <img src="https://img.shields.io/badge/Flutter-%230FF0FC?style=flat-square&logo=flutter&logoColor=000" />
-      <img src="https://img.shields.io/badge/Dart-%23B537F2?style=flat-square&logo=dart&logoColor=fff" />
-      <img src="https://img.shields.io/badge/REST_APIs-%23FF2D78?style=flat-square" />
-      <br><br>
-      <ul>
-        <li>Cross-platform mobile app with product catalog, cart & secure checkout</li>
-        <li>Real-time data sync via REST API integration</li>
-        <li>Responsive mobile-first UI/UX across Android & iOS</li>
-        <li>🏆 <strong>Flipkart Grid Certified</strong> — Flutter App Development</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Portfolio Website</h3>
-      <img src="https://img.shields.io/badge/HTML5-%230FF0FC?style=flat-square&logo=html5&logoColor=000" />
-      <img src="https://img.shields.io/badge/CSS3-%23B537F2?style=flat-square&logo=css3&logoColor=fff" />
-      <img src="https://img.shields.io/badge/GitHub_Pages-%23FF2D78?style=flat-square" />
-      <br><br>
-      <ul>
-        <li>Personal portfolio deployed on GitHub Pages</li>
-        <li>Showcases projects, skills, and experience</li>
-        <li>Responsive design with clean UI</li>
-      </ul>
       <a href="https://dumpalisharathchandrareddy.github.io/MyPortfolio/">
-        <img src="https://img.shields.io/badge/→ Live Site-%230FF0FC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Live_Site-%23FF2D78?style=for-the-badge&logo=firefoxbrowser&logoColor=fff" />
       </a>
     </td>
   </tr>
@@ -192,19 +195,27 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dumpalisharathchandrareddy&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=b537f2&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=b537f2&border_radius=10&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumpalisharathchandrareddy&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&text_color=ffffff&border_radius=10&langs_count=8" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumpalisharathchandrareddy&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&text_color=ffffff&border_radius=10" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=dumpalisharathchandrareddy&theme=synthwave&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=b537f2&border_radius=10&dates=aaaaaa" width="60%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumpalisharathchandrareddy&theme=react-dark&bg_color=0d0d0d&color=0ff0fc&line=b537f2&point=ff2d78&hide_border=true" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumpalisharathchandrareddy&theme=2077" width="98%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumpalisharathchandrareddy&theme=2077" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dumpalisharathchandrareddy&theme=2077" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dumpalisharathchandrareddy&theme=2077&utcOffset=-5" width="32%" />
 </div>
 
 <br>
@@ -226,8 +237,8 @@
 | ⚡ Automation Impact | 90% reduction in manual admin tasks |
 | 📈 Performance Optimization | 40%+ improvement in API response times |
 | 🔄 CI/CD Pipelines | 24/7 uptime with zero-downtime deployments |
+| 🔬 Research Published | HAR paper — University of New Haven |
 | 🏅 Certifications | Flipkart Grid (Flutter) · R Programming |
-| 🎓 Education | M.S. CS — University of New Haven, CT |
 
 </div>
 

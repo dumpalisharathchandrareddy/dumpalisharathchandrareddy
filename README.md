@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=false&width=700&height=40&lines=%24+whoami+%E2%86%92+Backend+Engineer+%7C+AI%2FML+%7C+Full-Stack;%24+status+%E2%86%92+500%2B+Users+in+Production+%7C+10%2B+Apps+Shipped;%24+research+%E2%86%92+HAR+Paper+Submitted+%7C+Precision+0.9682;%24+stack+%E2%86%92+Node.js+%7C+Python+%7C+Flutter+%7C+Spring+Boot;%24+location+%E2%86%92+Hartford%2C+CT+%E2%80%94+Open+to+Remote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=false&width=700&height=40&lines=%24+whoami+%E2%86%92+Backend+Engineer+%7C+AI%2FML+%7C+Full-Stack;%24+status+%E2%86%92+1100%2B+Users+in+Production+%7C+10%2B+Apps+Shipped;%24+research+%E2%86%92+HAR+Paper+Submitted+%7C+Precision+0.9682;%24+stack+%E2%86%92+Node.js+%7C+Python+%7C+Flutter+%7C+Spring+Boot;%24+location+%E2%86%92+Hartford%2C+CT+%E2%80%94+Open+to+Remote" />
 </div>
 
 <br>
@@ -22,17 +22,17 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   ███████╗ ██████╗██████╗                                            ║
-║   ██╔════╝██╔════╝██╔══██╗  Sharath Chandra Reddy Dumpali           ║
-║   ███████╗██║     ██║  ██║  ─────────────────────────────           ║
-║   ╚════██║██║     ██║  ██║  Role     → Backend Engineer             ║
-║   ███████║╚██████╗██████╔╝  Focus    → AI/ML · Cloud · APIs         ║
-║   ╚══════╝ ╚═════╝╚═════╝   Degree   → M.S. CS — Univ. of New Haven ║
-║                              Location → Hartford, CT, USA            ║
-║   [ SYSTEM ONLINE ]          Status   → ● AVAILABLE FOR HIRE        ║
+║   ██╔════╝██╔════╝██╔══██╗  Sharath Chandra Reddy Dumpali            ║
+║   ███████╗██║     ██║  ██║  ─────────────────────────────            ║
+║   ╚════██║██║     ██║  ██║  Role     → Full-Stack Dev                ║
+║   ███████║╚██████╗██████╔╝  Focus    → AI/ML · Cloud · APIs          ║
+║   ╚══════╝ ╚═════╝╚═════╝   Degree   → M.S. CS — Univ. of New Haven  ║
+║                             Location → Hartford, CT, USA             ║
+║   [ SYSTEM ONLINE ]         Status   → ● AVAILABLE FOR HIRE          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 $ ./run --production
-  ✓ 500+ users loaded
+  ✓ 1100+ users loaded
   ✓ 10 apps deployed
   ✓ 90% admin tasks automated
   ✓ 40%+ API latency reduced
@@ -111,12 +111,12 @@ const sharath = {
 
 ```
 LIVE STATS ──────────────────────
-  Users     ████████████  500+
+  Users     ████████████  1100+
   Uptime    ████████████  24/7
   Automation████████████  90%
 ─────────────────────────────────
 ```
-- **500+ concurrent users** — live in production
+- **1100+ concurrent users** — live in production
 - Replaced 90% of manual admin work with automation
 - Role system, giveaways, tickets, analytics — all automated
 - Zero-downtime cloud deploys with auto-restart
@@ -284,7 +284,7 @@ TECH QUALITY ────────────────────
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │  🎓  M.S. Computer Science                                          │
-│      University of New Haven · West Haven, CT, USA · 2024–2025     │
+│      University of New Haven · West Haven, CT, USA · 2024–2025      │
 ├─────────────────────────────────────────────────────────────────────┤
 │  🎓  B.S. Computer Science                                          │
 │      Sathyabama Institute of Science & Technology · 2019–2023       │
